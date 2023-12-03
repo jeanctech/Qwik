@@ -1,12 +1,10 @@
 import { component$, useSignal } from '@builder.io/qwik'
-
-import qwikLogo from './assets/qwik.svg'
-import viteLogo from '/vite.svg'
-import './app.css'
+import qwikLogo from './Assets/Qwik.svg'
+import viteLogo from '../Public/Vite.svg'
+import './App.css'
 
 export const App = component$(() => {
   const count = useSignal(0)
-
   return (
     <>
       <div>
@@ -21,7 +19,7 @@ export const App = component$(() => {
       <div class="card">
         <button onClick$={() => count.value++}>count is {count.value}</button>
         <p>
-          Edit <code>src/app.jsx</code> and save to test HMR
+          Edit <code>src/app.jsx</code> and save to test Hmr
         </p>
       </div>
       <p class="read-the-docs">
