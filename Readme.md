@@ -26,13 +26,13 @@ Thank you very much for all the support shown!
 
 ## Links of Interest
 
-* [Next Official Website](https://qwik.builder.io/)
+* [Qwik Official Website](https://qwik.builder.io/)
 
-* [Official Next in Spanish](https://qwik.builder.io/docs/)
+* [Official Qwik in Spanish](https://qwik.builder.io/docs/)
 
-* [30 Days of Next Repository](https://github.com/qwikifiers/qwik-ui)
+* [30 Days of Qwik Repository](https://github.com/qwikifiers/qwik-ui)
 
-* [Game to Learn Next](https://qwik.builder.io/tutorial/welcome/overview/)
+* [Game to Learn Qwik](https://qwik.builder.io/tutorial/welcome/overview/)
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 
