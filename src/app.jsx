@@ -1,7 +1,8 @@
 import { component$, useSignal } from '@builder.io/qwik'
-import Qwik from './Assets/Qwik.svg'
-import Vite from '../Public/Vite.svg'
-import './Styles/App.css'
+
+import qwikLogo from './assets/qwik.svg'
+import viteLogo from '/vite.svg'
+import './styles/app.css'
 
 export const App = component$(() => {
   const count = useSignal(0)
@@ -9,10 +10,10 @@ export const App = component$(() => {
     <>
       <div>
         <a href="https://vitejs.dev" target="_blank">
-          <img src={Vite} class="logo" alt="Vite logo" />
+          <img src={viteLogo} class="logo" alt="Vite logo" />
         </a>
         <a href="https://qwik.builder.io" target="_blank">
-          <img src={Qwik} class="logo qwik" alt="Qwik logo" />
+          <img src={qwikLogo} class="logo qwik" alt="Qwik logo" />
         </a>
       </div>
       <h1>Vite + Qwik</h1>
