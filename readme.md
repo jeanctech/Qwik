@@ -8,10 +8,10 @@ Qwik is a new fast and lightweight web framework that focuses on performance and
 
 ## Index
 
-* [Introduction](Introduction)
-* [Lesson 1 - Hello World](Hello-World)
-* [Lesson 30 - Conclusions](Conclusions)
-* [Next Steps](Next-Steps)
+- [Introduction](Introduction)
+- [Lesson 1 - Hello World](Hello-World)
+- [Lesson 30 - Conclusions](Conclusions)
+- [Next Steps](Next-Steps)
 
 ## Introduction
 
@@ -21,26 +21,26 @@ In summary, Qwik focuses on radically fast render times through optimized and co
 
 Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
 
-* As soon as the course continues, I will update the repository and notify the networks.
-Thank you very much for all the support shown!
+- As soon as the course continues, I will update the repository and notify the networks.
+  Thank you very much for all the support shown!
 
 ## Links of Interest
 
-* [Qwik Official Website](https://qwik.builder.io/)
+- [Qwik Official Website](https://qwik.builder.io/)
 
-* [Official Qwik in Spanish](https://qwik.builder.io/docs/)
+- [Official Qwik in Spanish](https://qwik.builder.io/docs/)
 
-* [30 Days of Qwik Repository](https://github.com/qwikifiers/qwik-ui)
+- [30 Days of Qwik Repository](https://github.com/qwikifiers/qwik-ui)
 
-* [Game to Learn Qwik](https://qwik.builder.io/tutorial/welcome/overview/)
+- [Game to Learn Qwik](https://qwik.builder.io/tutorial/welcome/overview/)
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+- [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 
-* [Node.js](https://nodejs.org/en) - The framework Alternative to the above
+- [Node.js](https://nodejs.org/en) - The framework Alternative to the above
 
-* [React.js](https://es.react.dev/) - The framework Alternative to the above
+- [React.js](https://es.react.dev/) - The framework Alternative to the above
 
-* [Vue.js](https://vuejs.org/) - The framework Alternative to the above
+- [Vue.js](https://vuejs.org/) - The framework Alternative to the above
 
 ##
 
